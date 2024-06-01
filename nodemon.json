@@ -1,0 +1,11 @@
+{
+  "ext": "js",
+  "verbose": true,
+  "watch": ["src/", ".env"],
+  "execMap": {
+    "js": "babel-node"
+  },
+  "env": {
+    "__ESLINT__": "true"
+  }
+}
